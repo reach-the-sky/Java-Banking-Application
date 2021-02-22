@@ -1,0 +1,9 @@
+Options:
+	1. Just run the jar file - It is the output of the code that we converted as to reduce the difficulty in running the code.
+	2. Install an IDE and the required dependencies.
+Mam, instructions to run the java file - (If you want to run the java file in your system):
+	-> Install eclipse.
+	-> Add json.jar file as a library.
+	-> Add fakery.png and client.json file to the path.
+	-> Run GUI.java file (Banking.java file should be in the same directory).
+	-> Output is the same as Banking.jar file.
